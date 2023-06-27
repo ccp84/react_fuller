@@ -1,7 +1,9 @@
 import React from 'react';
+import Image from 'react-bootstrap/Image';
 import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import banner from '../media/bannersml.png';
+import logo from '../media/logow.webp';
 
 const Header = () => {
 	return (
@@ -10,13 +12,14 @@ const Header = () => {
 				<Card className="bg-info text-dark">
 					<Card.Img src={banner} alt="banner image" />
 					<Card.ImgOverlay>
-						<Card.Title className="bg-info text-large">
-							Ian Fuller Sports Massage
+						<Card.Title className="text-info fs-1">
+							<Image src={logo} alt="logo" height={50} /> Ian
+							Fuller
 						</Card.Title>
-						<Card.Text className="bg-info">
-							Sports Massage in Malvern
-						</Card.Text>
 					</Card.ImgOverlay>
+					<Card.Text className="bg-info fs-2 text-secondary">
+						Sports Massage in Malvern
+					</Card.Text>
 				</Card>
 			</Container>
 		</>

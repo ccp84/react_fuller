@@ -11,7 +11,7 @@ function App() {
 			<Container>
 				<Outlet />
 			</Container>
-			<Container>
+			<Container className="bg-info p-2">
 				<Footer />
 			</Container>
 		</>
