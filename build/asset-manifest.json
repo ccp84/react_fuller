@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/react_fuller/static/css/main.073c9b0a.css",
-    "main.js": "/react_fuller/static/js/main.f54e788e.js",
-    "static/js/787.a8ad7eb2.chunk.js": "/react_fuller/static/js/787.a8ad7eb2.chunk.js",
-    "static/media/smalldinosaur.png": "/react_fuller/static/media/smalldinosaur.57c4e1e65a761176a84b.png",
-    "static/media/fhtlogo.png": "/react_fuller/static/media/fhtlogo.b51b48f56b2a171b442e.png",
-    "static/media/bannersml.png": "/react_fuller/static/media/bannersml.cba2a3371ba88d812872.png",
-    "index.html": "/react_fuller/index.html",
-    "main.073c9b0a.css.map": "/react_fuller/static/css/main.073c9b0a.css.map",
-    "main.f54e788e.js.map": "/react_fuller/static/js/main.f54e788e.js.map",
-    "787.a8ad7eb2.chunk.js.map": "/react_fuller/static/js/787.a8ad7eb2.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.b4691212.js",
+    "static/js/787.a8ad7eb2.chunk.js": "/static/js/787.a8ad7eb2.chunk.js",
+    "static/media/smalldinosaur.png": "/static/media/smalldinosaur.57c4e1e65a761176a84b.png",
+    "static/media/fhtlogo.png": "/static/media/fhtlogo.b51b48f56b2a171b442e.png",
+    "static/media/bannersml.png": "/static/media/bannersml.cba2a3371ba88d812872.png",
+    "static/media/ian.jpg": "/static/media/ian.6d0d13b72edcc6269409.jpg",
+    "static/media/logow.webp": "/static/media/logow.660c01c275596ead0d95.webp",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.b4691212.js.map": "/static/js/main.b4691212.js.map",
+    "787.a8ad7eb2.chunk.js.map": "/static/js/787.a8ad7eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f54e788e.js"
+    "static/js/main.b4691212.js"
   ]
 }
