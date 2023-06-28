@@ -11,7 +11,7 @@ const Prices = () => {
 			pageContent={
 				<CardGroup>
 					<Card>
-						<Card.Header className="text-info">
+						<Card.Header className="bg-info text-dark">
 							Initial Consultation
 						</Card.Header>
 						<Card.Body>
@@ -20,7 +20,7 @@ const Prices = () => {
 						<Card.Footer></Card.Footer>
 					</Card>
 					<Card>
-						<Card.Header className="text-info">
+						<Card.Header className="bg-info text-dark">
 							Sports Massage
 						</Card.Header>
 						<Card.Body>
